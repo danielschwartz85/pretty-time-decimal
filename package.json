@@ -1,7 +1,7 @@
 {
   "name": "pretty-time-decimal",
-  "version": "1.0.0",
-  "description": "convert decimal time to pretty time string and vise versa",
+  "version": "1.0.1",
+  "description": "Convert decimal time to pretty time string and vise versa",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
@@ -16,7 +16,12 @@
     "formatter"
   ],
   "author": "Daniel Schwartz",
+  "homepage": "https://github.com/danielschwartz85/pretty-time-decimal",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/danielschwartz85/pretty-time-decimal.git"
+  },
   "devDependencies": {
     "eslint": "^7.19.0",
     "eslint-config-airbnb-base": "^14.2.1",
