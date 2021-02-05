@@ -1,0 +1,26 @@
+{
+  "name": "pretty-time-decimal",
+  "version": "1.0.0",
+  "description": "convert decimal time to pretty time string and vise versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "decimal",
+    "time",
+    "pretty",
+    "convert",
+    "converter",
+    "format",
+    "formatter"
+  ],
+  "author": "Daniel Schwartz",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "mocha": "^8.2.1"
+  }
+}
