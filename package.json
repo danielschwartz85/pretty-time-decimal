@@ -1,6 +1,6 @@
 {
   "name": "pretty-time-decimal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert decimal time to pretty time string and vise versa",
   "main": "index.js",
   "scripts": {

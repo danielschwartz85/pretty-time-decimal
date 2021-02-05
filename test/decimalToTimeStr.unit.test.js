@@ -18,4 +18,9 @@ describe('decimalToTimeStr', () => {
     const timeStr = decimalToTimeStr(3 + fiveMin);
     assert.equal(timeStr, '3:05');
   });
+
+  it('rounds minutes', () => {
+    const timeStr = decimalToTimeStr(5.236150237906731);
+    assert.equal(timeStr, '5:14');
+  });
 });
