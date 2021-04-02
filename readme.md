@@ -17,7 +17,7 @@ decimalToTimeStr(3.75)           // '3:45'
 decimalToTimeStr(3 + (5 / 60))   // '3:05'
 ```
 
-### Usgae:
+### Usage
 String to decimal:
 
 ```js
